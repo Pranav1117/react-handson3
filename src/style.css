@@ -1,0 +1,41 @@
+.body{
+    background-image: linear-gradient(aquamarine,rgb(248, 109, 181));
+    background-repeat: no-repeat;
+    
+    height: 100vb;
+}
+
+
+
+.heading{
+    text-align: center;
+}
+.maindiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.input1{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: rgb(206, 230, 231);
+}
+.btn{
+    padding:10px ;
+    border:1px solid black;
+    border-radius: 40px;
+    width: 10%;
+    background-color:aquamarine
+}
+
+.returndiv{
+    border: 1px solid black;
+    width: 90%;
+    background-color: cadetblue;
+    padding: 10px;
+    display: inline-block;
+   
+
+}
